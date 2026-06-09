@@ -187,7 +187,7 @@ monthly SaaS subscriptions with something a business owns outright.
 
 ## 🤖 AI Support
 
-This project uses **Claude** as a development copilot for:
+This project uses **Anthropic Claude** as a development copilot for:
 
 - ✍️ Documentation writing
 - 💡 Idea refinement
