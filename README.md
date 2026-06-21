@@ -174,7 +174,7 @@ pixlforge-command-center/
 operations, retail and finance teams — the kind of software that replaces spreadsheets and
 monthly SaaS subscriptions with something a business owns outright.
 
-- 📧 **Email:** [pixlforge.studio03@gmail.com](mailto:pixlforge.studio03@gmail.com)
+- 📧 **Email:** [info@pixlforgestudio.in](mailto:info@pixlforgestudio.in)
 - 🌐 **Portfolio:** [pixlforgestudio03.netlify.app](https://pixlforgestudio03.netlify.app/)
 - 💼 **GitHub:** [@Namanjain723](https://github.com/Namanjain723)
 
