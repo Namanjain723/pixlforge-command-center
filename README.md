@@ -175,7 +175,7 @@ operations, retail and finance teams — the kind of software that replaces spre
 monthly SaaS subscriptions with something a business owns outright.
 
 - 📧 **Email:** [info@pixlforgestudio.in](mailto:info@pixlforgestudio.in)
-- 🌐 **Portfolio:** [pixlforgestudio03.netlify.app](https://pixlforgestudio03.netlify.app/)
+- 🌐 **Portfolio:** [pixlforgestudio.in](https://pixlforgestudio.in/)
 - 💼 **GitHub:** [@Namanjain723](https://github.com/Namanjain723)
 
 > 💬 **Want a command center like this for your business?**
