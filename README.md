@@ -46,7 +46,7 @@ forever*.
 
 This repository is a **fully interactive, anonymized demo** built on **100% fictional data**
 (see [Data & Privacy](#-data--privacy)). It mirrors a real production system delivered to a
-73-employee, 7-location retail company.
+185-employee, 7-location retail company.
 
 ---
 
