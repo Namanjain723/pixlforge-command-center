@@ -9,7 +9,7 @@ sanitized copy in which **no real data exists**.
 | Real (private) | In this public demo |
 |---|---|
 | Employee names | Fictional names (randomly generated) |
-| Employee photos | Generated **initials avatars** — no images leave any system |
+| Employee photos | Generated **initials avatars** - no images leave any system |
 | Employee / manager emails | `@metroretail.demo` placeholders |
 | Company & store branding | A fictional brand, **Metro Retail Co.** |
 | Master Google Sheet ID | Removed |

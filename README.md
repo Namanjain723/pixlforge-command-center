@@ -1,13 +1,13 @@
-<!-- PixlForge Business Command Center — README -->
+<!-- PixlForge Business Command Center - README -->
 
 <p align="center">
   <img src="assets/github_banner.png" alt="PixlForge Business Command Center" width="100%">
 </p>
 
-<h1 align="center">PixlForge — Business Command Center</h1>
+<h1 align="center">PixlForge - Business Command Center</h1>
 
 <p align="center"><b>A real-time operational command center for multi-location retail businesses.</b><br>
-Live store monitoring · weekly performance scoring · alteration tracking · task delegation · voice control — <b>one screen, everything.</b></p>
+Live store monitoring · weekly performance scoring · alteration tracking · task delegation · voice control - <b>one screen, everything.</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Apps_Script-Backend-4285F4?logo=google&logoColor=white">
@@ -36,12 +36,12 @@ performance reviews are guesswork, and tasks fall through the cracks.
 
 **The Business Command Center** replaces all of that with **one live executive dashboard**. Every
 employee, store, task, alteration job and performance score flows from a single master Google
-Sheet into a clean, fast, mobile-friendly web app — no servers, no monthly SaaS fees, no vendor
+Sheet into a clean, fast, mobile-friendly web app - no servers, no monthly SaaS fees, no vendor
 lock-in. It runs entirely on **Google Apps Script + Google Sheets**, so the business *owns it
 forever*.
 
 > 💡 **The business case:** this single dashboard replaces several paid tools (HR tracker,
-> task manager, performance software, store-monitoring apps). Built once, owned outright —
+> task manager, performance software, store-monitoring apps). Built once, owned outright -
 > it typically pays for itself within the first month and then runs for free.
 
 This repository is a **fully interactive, anonymized demo** built on **100% fictional data**
@@ -52,7 +52,7 @@ This repository is a **fully interactive, anonymized demo** built on **100% fict
 
 ## ▶ Live Demo
 
-The dashboard is **fully self-contained** — it ships with realistic synthetic data and needs
+The dashboard is **fully self-contained** - it ships with realistic synthetic data and needs
 **no backend, no API keys and no login** to run.
 
 - 🌐 **Try it locally:** open [`dashboard/index.html`](dashboard/index.html) in any modern browser.
@@ -68,15 +68,15 @@ The dashboard is **fully self-contained** — it ships with realistic synthetic 
 
 | | Module | What it does |
 |---|---|---|
-| 🏬 | **Operational Command Center** | Real-time tiles for all 7 locations — headcount, status, FMS access, drill-down to any store. |
+| 🏬 | **Operational Command Center** | Real-time tiles for all 7 locations - headcount, status, FMS access, drill-down to any store. |
 | ⭐ | **MIS Performance Scoring** | Auto-grades every employee **A+ → F** weekly / monthly / yearly, grouped by department, with 3-week decline & improvement alerts and CSV export. |
-| ✂️ | **Alteration FMS — Live** | Live order-workflow pipeline (Received → Cutting → Stitching → QC → Ready) with auto-refresh, day-wise breakdown and on-time/late tracking. |
+| ✂️ | **Alteration FMS - Live** | Live order-workflow pipeline (Received → Cutting → Stitching → QC → Ready) with auto-refresh, day-wise breakdown and on-time/late tracking. |
 | 🤝 | **Task Delegation** | Assign tasks to staff, employees tap **Mark Done**, system records On-Time / Late automatically and scores accordingly. |
 | ✅ | **Daily Checklists** | Per-employee recurring checklists with time-window logic and manager view. |
 | 👥 | **HR Dashboard** | Live headcount, department & location breakdown with charts. |
 | 📈 | **Marketing & Sales** | Revenue analytics and live charts. |
-| 🗂️ | **8 FMS Systems** | PO, PO-Split, Alteration, Inventory, Leave, Salary, Discount & more — linked from one place. |
-| 🎙️ | **Voice Assistant** | Hands-free control — "how many staff in *Westside*", "open MIS", "mark attendance done", read tasks aloud, confirm before acting. |
+| 🗂️ | **8 FMS Systems** | PO, PO-Split, Alteration, Inventory, Leave, Salary, Discount & more - linked from one place. |
+| 🎙️ | **Voice Assistant** | Hands-free control - "how many staff in *Westside*", "open MIS", "mark attendance done", read tasks aloud, confirm before acting. |
 | 💬 | **Messaging + Anonymous Feedback** | Internal messaging and an anonymous feedback channel for staff. |
 | 🌗 | **Dark / Light Theme** | One-tap theme toggle, remembered per device. Fully responsive (desktop / iPad / iPhone). |
 
@@ -84,16 +84,16 @@ The dashboard is **fully self-contained** — it ships with realistic synthetic 
 
 ## 📸 Screenshots
 
-### Operational Command Center — Dark & Light
+### Operational Command Center - Dark & Light
 <p align="center">
   <img src="assets/screenshot_01_landing_dark.png" width="49%">
   <img src="assets/screenshot_02_landing_light.png" width="49%">
 </p>
 
-### ⭐ MIS Performance Scoring — auto-graded, department-wise
+### ⭐ MIS Performance Scoring - auto-graded, department-wise
 <p align="center"><img src="assets/screenshot_03_mis_scoring.png" width="88%"></p>
 
-### ✂️ Alteration FMS — live order pipeline
+### ✂️ Alteration FMS - live order pipeline
 <p align="center"><img src="assets/screenshot_04_alteration_live.png" width="88%"></p>
 
 ### Staff Directory · Employee Profile · HR Dashboard
@@ -129,9 +129,9 @@ The dashboard is **fully self-contained** — it ships with realistic synthetic 
                                    └────────────────────────────────────┘
 ```
 
-- **No database server, no hosting bill** — Google Sheets *is* the database; Apps Script *is* the API.
-- **Single-file frontend** — the entire dashboard is one portable `index.html`.
-- **Graceful demo fallback** — runs fully offline with synthetic data when no backend is set.
+- **No database server, no hosting bill** - Google Sheets *is* the database; Apps Script *is* the API.
+- **Single-file frontend** - the entire dashboard is one portable `index.html`.
+- **Graceful demo fallback** - runs fully offline with synthetic data when no backend is set.
 
 More detail in [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) and [`docs/FEATURES.md`](docs/FEATURES.md).
 
@@ -171,7 +171,7 @@ pixlforge-command-center/
 ## 👋 About PixlForge
 
 **PixlForge** builds production-grade dashboards, internal tools and AI automation for
-operations, retail and finance teams — the kind of software that replaces spreadsheets and
+operations, retail and finance teams - the kind of software that replaces spreadsheets and
 monthly SaaS subscriptions with something a business owns outright.
 
 - 📧 **Email:** [info@pixlforgestudio.in](mailto:info@pixlforgestudio.in)
@@ -181,7 +181,7 @@ monthly SaaS subscriptions with something a business owns outright.
 
 > 💬 **Want a command center like this for your business?**
 > I build custom operational dashboards on Google Workspace, Netlify or your own stack.
-> **Message me for a free walkthrough** — I'll map your current process and show you exactly
+> **Message me for a free walkthrough** - I'll map your current process and show you exactly
 > what a single dashboard could replace.
 
 ---
@@ -200,7 +200,7 @@ All architecture, product decisions, integration and final engineering are by **
 
 ## 📜 License
 
-See [`LICENSE`](LICENSE). This is a **portfolio / demo project** — free to view and evaluate,
+See [`LICENSE`](LICENSE). This is a **portfolio / demo project** - free to view and evaluate,
 **not for redistribution or resale**. Commercial deployment and customization are available as a
 service engagement.
 

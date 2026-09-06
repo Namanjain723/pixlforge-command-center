@@ -1,4 +1,4 @@
-# Features — in detail
+# Features - in detail
 
 ## 🏬 Operational Command Center
 The landing view shows every location as a live tile: headcount, status pill, role and a
@@ -15,7 +15,7 @@ The performance engine grades every employee automatically.
 - **CSV export** of any report.
 - **Cards or table** view toggle.
 
-## ✂️ Alteration FMS — Live
+## ✂️ Alteration FMS - Live
 A real-time view of the tailoring/alteration workflow.
 - **Order pipeline:** Received → Cutting → Stitching → Quality → Ready.
 - **Auto-refresh** every 30 seconds.
@@ -41,14 +41,14 @@ Live headcount with department and location breakdowns and charts.
 Revenue analytics with live charts.
 
 ## 🗂️ 8 FMS Systems
-PO to Document, PO Split, Alteration, Urgent Requirement, Discount, Leave, Salary and SCT —
+PO to Document, PO Split, Alteration, Urgent Requirement, Discount, Leave, Salary and SCT -
 each linked from the relevant employee profile and from one central place.
 
 ## 🎙️ Voice Assistant
 Hands-free operation using the browser's Web Speech API:
 - "How many staff in *Westside*?"
 - "Open MIS" · "Open *Rohit*'s checklist" · "Alteration of *Downtown*"
-- "Mark *Meena*'s attendance done" — **reads the task aloud and confirms before acting.**
+- "Mark *Meena*'s attendance done" - **reads the task aloud and confirms before acting.**
 - Answers org questions (who is the owner / EA / department head).
 - English + Hinglish phrasing, works on iPhone / iPad.
 
